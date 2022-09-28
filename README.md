@@ -1,2 +1,2 @@
 # Embedded-Stop-Wacth-System
-sytem uses ATmaga32 microprosser timer0 unit to control seven segment using through interrupt button which start and stop seven segment watch
+The system uses ATmega32 microprocessor timer 0 unit to control seven segments using through interrupt button which starts and stop seven segment watch
